@@ -2,72 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5efda7ac-1855-430b-b71b-9b6334aa7a92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ReactNativeCourseUdemy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/.buckconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/.flowconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/.watchmanconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/__tests__/App-test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/BUCK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/build_defs.bzl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/java/com/food/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/java/com/food/MainApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/android/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/Podfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/food-tvOS/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/food-tvOSTests/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/food.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/food.xcodeproj/xcshareddata/xcschemes/food-tvOS.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/food.xcodeproj/xcshareddata/xcschemes/food.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/food/AppDelegate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/food/AppDelegate.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/food/Base.lproj/LaunchScreen.xib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/food/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/food/Images.xcassets/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/food/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/food/main.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/foodTests/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/ios/foodTests/foodTests.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/metro.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/src/components/RestaurantList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/src/components/SearchBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/src/screens/SearchScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/food/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/src/api/yelp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/src/components/ResultsDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/src/components/ResultsList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food/src/hooks/useResults.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/food/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/food/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food/src/components/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/food/src/components/SearchBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/food/src/screens/SearchScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/food/src/screens/SearchScreen.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -92,11 +35,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/food/src/screens/SearchScreen.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/food/src/hooks/useResults.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/food/src/components/ResultsDetail.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/food/src/components/ResultsList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -107,11 +86,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/food/src/components/SearchBar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="220">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/food/src/api/yelp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -139,16 +127,23 @@
         <option value="$PROJECT_DIR$/food/App.js" />
         <option value="$PROJECT_DIR$/food/src/components/RestaurantList.js" />
         <option value="$PROJECT_DIR$/food/src/components/SearchBar.js" />
+        <option value="$PROJECT_DIR$/food/src/api/yelp.js" />
         <option value="$PROJECT_DIR$/food/src/screens/SearchScreen.js" />
+        <option value="$PROJECT_DIR$/food/src/hooks/useResults.js" />
+        <option value="$PROJECT_DIR$/food/src/components/ResultsList.js" />
+        <option value="$PROJECT_DIR$/food/src/components/ResultsDetail.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2173" />
-    <option name="width" value="691" />
-    <option name="height" value="1167" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -171,6 +166,13 @@
               <item name="ReactNativeCourseUdemy" type="462c0819:PsiDirectoryNode" />
               <item name="food" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactNativeCourseUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactNativeCourseUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="food" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ReactNativeCourseUdemy" type="b2602c69:ProjectViewProjectNode" />
@@ -226,14 +228,15 @@
       <workItem from="1565263903170" duration="1659000" />
       <workItem from="1565266100676" duration="615000" />
       <workItem from="1565266765597" duration="4460000" />
+      <workItem from="1565340304630" duration="13354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6734000" />
+    <option name="totallyTimeSpent" value="21450000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29241306" />
@@ -262,9 +265,6 @@
     <entry file="file://$PROJECT_DIR$/food/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/food/src/components/RestaurantList.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/food/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -275,20 +275,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/food/src/components/RestaurantList.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food/src/api/yelp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food/src/screens/SearchScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/food/src/components/SearchBar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="220">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/food/src/screens/SearchScreen.js">
+    <entry file="file://$PROJECT_DIR$/food/src/hooks/useResults.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food/src/components/ResultsList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food/src/components/ResultsDetail.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

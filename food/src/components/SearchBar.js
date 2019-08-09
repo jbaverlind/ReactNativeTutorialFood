@@ -1,10 +1,16 @@
 import React from "react";
 import { View, Text, StyleSheet, TextInput } from "react-native";
 
-const SearchBar = () => {
+const SearchBar = props => {
   return (
     <View style={styles.backgroundStyle}>
-      <TextInput style={styles.inputStyle} placeholder="Search" />
+      <TextInput
+        style={styles.inputStyle}
+        placeholder="Search"
+        value={props.term}
+        onChangeText={(newTerm) => props.onTermChange(newTerm)}
+        onEndEditing={props.onTermSubmit}
+      />
     </View>
   );
 };
@@ -15,11 +21,11 @@ const styles = StyleSheet.create({
     borderRadius: 5,
     marginHorizontal: 15,
     flexDirection: "row",
-    marginTop:10
+    marginTop: 10
   },
   inputStyle: {
-    flex:1,
-    marginLeft:10
+    flex: 1,
+    marginLeft: 10
   }
 });
 export default SearchBar;
